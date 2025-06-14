@@ -33,7 +33,7 @@
 
 ### 🧠 Languages
 
-| Language     | Icon |
+| Language     |  |
 |--------------|------|
 | Java         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/> |
 | Python       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> |
@@ -46,7 +46,7 @@
 
 ### 🗄️ Databases
 
-| Database     | Icon |
+| Database     |  |
 |--------------|------|
 | MySQL        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/> |
 | PostgreSQL   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/> |
@@ -57,7 +57,7 @@
 
 ### ⚙️ Frameworks & Libraries
 
-| Framework / Library | Icon |
+| Framework / Library |  |
 |---------------------|------|
 | ReactJS             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/> |
 | Node.js             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/> |
@@ -73,7 +73,7 @@
 
 ### 🛠️ Tools & Platforms
 
-| Tool / Platform | Icon |
+| Tool / Platform |  |
 |-----------------|------|
 | Git             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/> |
 | GitHub          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/> |
