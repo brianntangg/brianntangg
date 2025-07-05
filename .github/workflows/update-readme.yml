@@ -1,8 +1,8 @@
-name: Refresh GitHub Stats
+name: ⏰ Refresh GitHub Stats + README
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Runs every 6 hours
+    - cron: '0 */24 * * *'
   workflow_dispatch:
 
 jobs:
@@ -23,8 +23,11 @@ jobs:
           git add .refresh_log
           git commit -m "chore: trigger GitHub stats refresh" || echo "No changes to commit"
 
-      - name: Push changes
+      - name: Set remote URL with PAT
         env:
           GIT_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
-          git push https://x-access-token:${GIT_TOKEN}@github.com/${{ github.repository }} HEAD:main
+          git remote set-url origin https://x-access-token:${GIT_TOKEN}@github.com/${{ github.repository }}.git
+
+      - name: Push changes
+        run: git push origin HEAD:main
