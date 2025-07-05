@@ -1,0 +1,22 @@
+name: ⏰ Refresh GitHub Stats + README
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:
+
+jobs:
+  refresh-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Touch dummy file to trigger README refresh
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          echo "🕒 Updated at $(date)" >> .refresh_log
+          git add .refresh_log
+          git commit -m "chore: trigger GitHub stats refresh"
+          git push
