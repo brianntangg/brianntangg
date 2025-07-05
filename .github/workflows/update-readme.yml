@@ -1,4 +1,4 @@
-name: ⏰ Refresh GitHub Stats + README
+name: Refresh GitHub Stats
 
 on:
   schedule:
@@ -12,11 +12,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Touch dummy file to trigger README refresh
+      - name: Configure Git user
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Touch dummy file to trigger README refresh
+        run: |
           echo "🕒 Updated at $(date)" >> .refresh_log
           git add .refresh_log
-          git commit -m "chore: trigger GitHub stats refresh"
-          git push
+          git commit -m "chore: trigger GitHub stats refresh" || echo "No changes to commit"
+
+      - name: Push changes
+        env:
+          GIT_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+        run: |
+          git push https://x-access-token:${GIT_TOKEN}@github.com/${{ github.repository }} HEAD:main
