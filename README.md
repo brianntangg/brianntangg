@@ -25,6 +25,12 @@
 
 ---
 
+### 😎 Other Accounts
+Other accounts at companies I have worked at:
+- [@brianntanggg](https://github.com/brianntanggg) – Greystone
+
+---
+
 <blockquote align="center">
   "Nothing is as permanent as a temporary solution that works"
 </blockquote>
