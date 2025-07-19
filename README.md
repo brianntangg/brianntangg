@@ -40,10 +40,10 @@ Other accounts at companies I have worked at:
 
 ### 💻 Tech Stack
 
-**Languages:** Java, Python, C++, JavaScript, HTML/CSS  
-**Databases:** MySQL, PostgreSQL, SQLite, Redis  
-**Frameworks/Libraries:** ReactJS, Node.js, TailwindCSS, Bootstrap, Firebase, Flask, FastAPI, Material UI, TanStack Query  
-**Tools & Platforms:** Git, GitHub, Docker, VSCode, IntelliJ, Arduino, Jira, Figma, Azure, Nginx, DataDog
+- **Languages:** Java, Python, C++, JavaScript, HTML/CSS  
+- **Databases:** MySQL, PostgreSQL, SQLite, Redis  
+- **Frameworks/Libraries:** ReactJS, Node.js, TailwindCSS, Bootstrap, Firebase, Flask, FastAPI, Material UI, TanStack Query  
+- **Tools & Platforms:** Git, GitHub, Docker, VSCode, IntelliJ, Arduino, Jira, Figma, Azure, Nginx, DataDog
 
 ---
 
