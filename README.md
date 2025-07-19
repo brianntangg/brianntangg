@@ -47,39 +47,43 @@ Other accounts at companies I have worked at:
 
 ---
 
-### 🧩 Tech Icons
+### 🧩 Technologies
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://mui.com/static/logo.png" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.brandfetch.io/idWcj3JjN7/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="height:20px; margin-right:6px;" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/datadog.svg" style="height:20px; margin-right:6px;" />
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+
+  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://mui.com/static/logo.png" style="height:64px; flex: 0 0 16.6%;" />
+
+  <img src="https://cdn.brandfetch.io/idWcj3JjN7/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="height:64px; flex: 0 0 16.6%;" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/datadog.svg" style="height:64px; flex: 0 0 16.6%;" />
 </div>
 
 ---
@@ -88,8 +92,18 @@ Other accounts at companies I have worked at:
 
 ![snake gif](https://github.com/brianntangg/brianntangg/blob/output/github-contribution-grid-snake.svg)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/brian-tang05" target="_blank">
+### 🤝 Connect with Me
+
+### 🤝 Connect with Me
+
+<div align="left" style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
+
+  <a href="mailto:briantang05@gmail.com" target="_blank" style="outline: none; text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/brian-tang05" target="_blank" style="outline: none; text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
   </a>
+
 </div>
