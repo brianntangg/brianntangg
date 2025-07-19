@@ -94,8 +94,6 @@ Other accounts at companies I have worked at:
 
 ### 🤝 Connect with Me
 
-### 🤝 Connect with Me
-
 <div align="left" style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
 
   <a href="mailto:briantang05@gmail.com" target="_blank" style="outline: none; text-decoration: none;">
