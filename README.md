@@ -14,7 +14,7 @@
 ### 🔭 Currently Working On
 - 🚀 Interning as a Software Engineer @ Greystone  
 - 🧠 Studying system design and scaling backend APIs  
-- 🍽️ Learning lots on my personal project [RateMyDiningHall](#)
+- 🍽️ Learning lots on my personal projects [RateMyDiningHall](https://github.com/brianntangg/housing-connect), [HousingConnect](https://github.com/brianntangg/housing-connect), and [HarmonyScheduler](https://github.com/brianntangg/harmony-scheduler)
 
 ---
 
