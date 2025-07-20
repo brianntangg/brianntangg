@@ -17,14 +17,10 @@
 - 🍽️ Learning lots on my personal projects [RateMyDiningHall](https://github.com/brianntangg/housing-connect),  
   [HousingConnect](https://github.com/brianntangg/housing-connect), and [HarmonyScheduler](https://github.com/brianntangg/harmony-scheduler)
 
----
-
 ### 🎯 Fun Facts About Me
 - 🧗 I enjoy rock climbing, ping pong, and hikes with a view  
 - ✈️ I love to travel, exploring new cities and their local food scenes is my favorite way to recharge  
 - 🍜 I'm always hunting for the best ramen spots in NYC
-
----
 
 ### 😎 Other Accounts
 Other accounts at companies I have worked at:
