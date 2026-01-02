@@ -12,7 +12,7 @@
 <img align="right" height="150" src="https://gifdb.com/images/thumbnail/capoo-cat-typing-on-desk-gh8k0cjf5hq4vy2p.gif" />
 
 ### 🔭 Currently Working On
-- 🚀 Interning as a Software Engineer @ Greystone  
+- 🚀 Incoming Software Engineer Intern @ Microsoft  
 - 🧠 Studying system design and scaling backend APIs  
 - 🍽️ Learning lots on my personal projects [RateMyDiningHall](https://github.com/brianntangg/housing-connect),  
   [HousingConnect](https://github.com/brianntangg/housing-connect), and [HarmonyScheduler](https://github.com/brianntangg/harmony-scheduler)
