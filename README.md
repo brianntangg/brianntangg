@@ -1,14 +1,5 @@
 <h2 align="left">Hi 👋 I'm Brian, I like to build things!</h2>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=brianntangg&theme=tokyonight&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brianntangg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" />
-</div>
-
-###
-
 <img align="right" height="150" src="https://gifdb.com/images/thumbnail/capoo-cat-typing-on-desk-gh8k0cjf5hq4vy2p.gif" />
 
 ### 🔭 Currently Working On
