@@ -8,6 +8,10 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+  
     steps:
       - name: Generate the snake
         uses: Platane/snk@v3
