@@ -11,7 +11,6 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - name: Generate snake animation
@@ -22,7 +21,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to output branch
+      - name: Deploy snake animation
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
