@@ -2,17 +2,19 @@ name: Refresh GitHub Stats
 
 on:
   schedule:
-    - cron: '0 */24 * * *'  # every 24 hours
+    - cron: '0 0 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   refresh-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository with PAT
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.PERSONAL_TOKEN }}
 
       - name: Configure Git user
         run: |
@@ -21,9 +23,9 @@ jobs:
 
       - name: Touch dummy file to trigger README refresh
         run: |
-          echo "🕒 Updated at $(date)" >> .refresh_log
+          echo "Updated at $(date)" >> .refresh_log
           git add .refresh_log
           git commit -m "chore: trigger GitHub stats refresh" || echo "No changes to commit"
 
       - name: Push changes
-        run: git push origin HEAD:main
+        run: git push
