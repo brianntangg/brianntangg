@@ -5,8 +5,7 @@
 ### 🔭 Currently Working On
 - 🚀 Incoming Software Engineer Intern @ Microsoft  
 - 🧠 Studying system design and scaling backend APIs  
-- 🍽️ Learning lots on my personal projects [RateMyDiningHall](https://github.com/brianntangg/rate-my-dining-hall),  
-  [HousingConnect](https://github.com/brianntangg/housing-connect), and [HarmonyScheduler](https://github.com/brianntangg/harmony-scheduler)
+- 🍽️ Learning lots on my personal project [RateMyDiningHall](https://github.com/brianntangg/rate-my-dining-hall)
 
 ### 🎯 Fun Facts About Me
 - 🧗 I enjoy rock climbing, ping pong, and hikes with a view  
