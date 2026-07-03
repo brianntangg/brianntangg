@@ -3,9 +3,9 @@
 <img align="right" height="150" src="https://gifdb.com/images/thumbnail/capoo-cat-typing-on-desk-gh8k0cjf5hq4vy2p.gif" />
 
 ### 🔭 Currently Working On
-- 🚀 Incoming Software Engineer Intern @ Microsoft  
+- 🚀 Software Engineer Intern @ Microsoft  
 - 🧠 Studying system design and scaling backend APIs  
-- 🍽️ Learning lots on my personal project [RateMyDiningHall](https://github.com/brianntangg/rate-my-dining-hall)
+- 🍽️ Learning lots on my personal projects
 
 ### 🎯 Fun Facts About Me
 - 🧗 I enjoy rock climbing, ping pong, and hikes with a view  
