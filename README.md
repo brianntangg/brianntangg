@@ -3,7 +3,7 @@
 <img align="right" height="150" src="https://gifdb.com/images/thumbnail/capoo-cat-typing-on-desk-gh8k0cjf5hq4vy2p.gif" />
 
 ### 🔭 Currently Working On
-- 🚀 Software Engineer Intern @ Microsoft  
+- 🚀 Open Source Contributions 
 - 🧠 Studying system design and scaling backend APIs  
 - 🍽️ Learning lots on my personal projects
 
