@@ -12,10 +12,6 @@
 - ✈️ I love to travel, exploring new cities and their local food scenes is my favorite way to recharge  
 - 🍜 I'm always hunting for the best ramen spots in NYC
 
-### 😎 Other Accounts
-Other accounts at companies I have worked at:
-- [@brianntanggg](https://github.com/brianntanggg) – Greystone
-
 ---
 
 <blockquote align="center">
